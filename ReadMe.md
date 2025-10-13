@@ -64,7 +64,7 @@ Olá! Sou o **Bruno Silva**, estudante de **Análise e Desenvolvimento de Sistem
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunosillvax&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=brunosillvax&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
@@ -188,7 +188,7 @@ Olá! Sou o **Bruno Silva**, estudante de **Análise e Desenvolvimento de Sistem
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=00d9ff)
 
 </div>
 
@@ -208,7 +208,7 @@ Olá! Sou o **Bruno Silva**, estudante de **Análise e Desenvolvimento de Sistem
 
 ### 👀 Visitantes do Perfil
 
-![Contador de Visitantes](https://profile-counter.glitch.me/brunosillvax/count.svg)
+![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=brunosillvax.brunosillvax&style=for-the-badge&color=00d9ff)
 
 ### 💬 Estou sempre aberto a novas oportunidades e colaborações!
 
@@ -220,7 +220,7 @@ Olá! Sou o **Bruno Silva**, estudante de **Análise e Desenvolvimento de Sistem
 
 <div align="center">
 
-![Snake animation](https://github.com/brunosillvax/brunosillvax/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/brunosillvax/brunosillvax/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -235,3 +235,4 @@ Olá! Sou o **Bruno Silva**, estudante de **Análise e Desenvolvimento de Sistem
 ⭐ From [brunosillvax](https://github.com/brunosillvax)
 
 </div>
+
