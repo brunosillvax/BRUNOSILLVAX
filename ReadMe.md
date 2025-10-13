@@ -220,7 +220,11 @@ Olá! Sou o **Bruno Silva**, estudante de **Análise e Desenvolvimento de Sistem
 
 <div align="center">
 
+<<<<<<< HEAD
 ![Snake animation](https://github.com/brunosillvax/brunosillvax/blob/output/github-contribution-grid-snake.svg)
+=======
+![Snake animation](https://raw.githubusercontent.com/brunosillvax/brunosillvax/output/github-contribution-grid-snake.svg)
+>>>>>>> 175beb9c066f3d411d747614e2194aa30f729613
 
 </div>
 
