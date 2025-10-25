@@ -1,0 +1,66 @@
+# Dyno-Badges Configuration
+# This file configures the dynamic badges for your GitHub profile
+
+# GitHub Stats Badge
+github_stats:
+  username: brunosillvax
+  theme: radical
+  show_icons: true
+  hide_border: true
+  count_private: false
+  include_all_commits: true
+
+# Top Languages Badge
+top_languages:
+  username: brunosillvax
+  theme: radical
+  layout: compact
+  hide_border: true
+  langs_count: 8
+  exclude: [html, css, scss, sass]
+
+# GitHub Streak Badge
+github_streak:
+  username: brunosillvax
+  theme: radical
+  hide_border: true
+  mode: daily
+
+# GitHub Trophies
+github_trophies:
+  username: brunosillvax
+  theme: radical
+  no_frame: true
+  row: 1
+  column: 7
+
+# Activity Graph
+activity_graph:
+  username: brunosillvax
+  theme: radical
+  hide_border: true
+  area: true
+  line: 9e9e9e
+  point: 403d3d
+
+# Profile Views Counter
+profile_views:
+  username: brunosillvax
+  color: blueviolet
+  style: flat-square
+  label: Profile Views
+
+# Custom Badges
+custom_badges:
+  - label: 'Developer'
+    message: 'Full Stack'
+    color: 'blue'
+    style: 'for-the-badge'
+  - label: 'Location'
+    message: 'Brazil'
+    color: 'green'
+    style: 'for-the-badge'
+  - label: 'Status'
+    message: 'Available for work'
+    color: 'success'
+    style: 'for-the-badge'

@@ -2,11 +2,12 @@ name: Update Profile
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # A cada 6 horas
-  workflow_dispatch:  # Execução manual
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update-profile:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -14,7 +15,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Update profile with Dyno-Badges
-        uses: brunosillvax/github-dyno-badges@v1.0.0
+      - uses: actions/setup-python@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Update profile
+        run: |
+          python update_profile.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "Update profile [skip ci]"
+          git push
