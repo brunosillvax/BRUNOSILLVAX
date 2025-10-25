@@ -53,7 +53,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
     <td align="center" width="200">
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60" height="60" alt="AI"/>
       <br><b>🧠 Integração com IA</b>
-      <br>OpenAI • Análise Inteligente
+      <br>OpenAI • Gemini • NagaAI • OpenRouter
     </td>
   </tr>
 </table>
@@ -82,6 +82,10 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 ### 🧠 IA & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=router&logoColor=white)
+![NagaAI](https://img.shields.io/badge/NagaAI-00D9FF?style=for-the-badge&logo=ai&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
