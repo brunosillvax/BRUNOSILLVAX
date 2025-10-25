@@ -24,7 +24,6 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 - 💼 Em busca de **oportunidades de estágio** em Desenvolvimento Full-Stack
 - 🔭 Desenvolvendo **sistemas de automação** com JavaScript, TypeScript, Python e Go
 - 🌱 Explorando **APIs avançadas** e **integração com IA**
-- 🎨 Experiência com **Adobe Photoshop** e **Lightroom**
 - ⚡ Focado em **automação inteligente** e **soluções escaláveis**
 - 🎯 Objetivo: Tornar-me um **especialista em automação e IA**
 
