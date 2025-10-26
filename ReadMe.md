@@ -125,8 +125,14 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 ## 🏆 Conquistas GitHub
 
 <div align="center">
-  
-![Troféus](https://github-profile-trophy.vercel.app/?username=brunosillvax&theme=radical&no-frame=true&row=1&column=6)
+
+<a href="https://github.com/brunosillvax">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+
+<br><br>
+
+**Total de Estrelas Recebidas** ⭐ | **Contribuições em 2024** 🔥 | **Repositórios Públicos** 📦
 
 </div>
 
