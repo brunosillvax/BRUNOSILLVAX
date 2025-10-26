@@ -107,7 +107,6 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 ## 📊 Estatísticas do GitHub
 
-```
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
@@ -121,22 +120,15 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 </div>
 
-```
-
-
 ---
 
 ## 🏆 Conquistas GitHub
 
-```
 <div align="center">
   
 ![Troféus](https://github-profile-trophy.vercel.app/?username=brunosillvax&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
-
-```
-
 
 ---
 
@@ -274,10 +266,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 ### 👀 Visitantes do Perfil
 
-```
 ![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=brunosillvax.brunosillvax&style=for-the-badge&color=00d9ff)
-
-```
 
 ### 💬 Estou sempre aberto a novas oportunidades e colaborações!
 
