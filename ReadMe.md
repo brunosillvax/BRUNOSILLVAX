@@ -126,7 +126,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 <div align="center">
   
-![Troféus](https://github-profile-trophy.vercel.app/?username=brunosillvax&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![Troféus](https://github-profile-trophy.vercel.app/?username=brunosillvax&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
