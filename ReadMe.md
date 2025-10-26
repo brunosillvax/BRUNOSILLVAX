@@ -116,7 +116,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=brunosillvax&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brunosillvax&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,7 +126,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 <div align="center">
   
-![Troféus](https://github-profile-trophy.vercel.app/?username=brunosillvax&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Troféus](https://github-profile-trophy.vercel.app/?username=brunosillvax&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
