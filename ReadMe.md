@@ -6,11 +6,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+de+Bots+%F0%9F%9A%80;Especialista+em+Automação+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Integração+com+IA+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+👋;Desenvolvedor+de+Bots+🚀;Especialista+em+Automação+💻;Full-Stack+Developer+🚀;Integração+com+IA+🧠)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=brunosillvax&color=00d9ff&style=for-the-badge&label=Visitantes)
+![](https://img.shields.io/github/followers/brunosillvax?style=for-the-badge&color=00d9ff&labelColor=0d1117)
+![](https://img.shields.io/github/stars/brunosillvax?style=for-the-badge&color=00d9ff&labelColor=0d1117)
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -108,35 +114,34 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosillvax&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Bruno Silva github stats" /> 
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosillvax&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Bruno Silva Most Languages" />
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brunosillvax&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brunosillvax&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&stroke=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Conquistas GitHub
 
 <div align="center">
 
-<a href="https://github.com/brunosillvax">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=brunosillvax&custom_title=Gráfico%20de%20Contribuições&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=0d1117&title_color=00d9ff&area=true&hide_border=true" alt="Contribution Graph" />
 
-<br><br>
+<br>
 
-**Total de Estrelas Recebidas** ⭐ | **Contribuições em 2024** 🔥 | **Repositórios Públicos** 📦
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunosillvax&theme=radical)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📂 Projetos em Destaque
 
@@ -217,42 +222,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 ---
 
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunosillvax&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff)](https://github.com/brunosillvax)
-
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunosillvax)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunosillvax)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/brunosillvax)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunosillvax)
-
-### 📧 Email: Entre em contato através das redes sociais!
-
-</div>
-
----
-
-## 💡 Frase do Dia
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=00d9ff)
-
-</div>
-
----
-
-## 🚀 Status dos Projetos
+## 👨‍💻 Status & Atividade
 
 <div align="center">
 
@@ -262,26 +232,58 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 ![Bots](https://img.shields.io/badge/Bots-WhatsApp%20%7C%20Instagram%20%7C%20TikTok-blue?style=for-the-badge&logo=robot&logoColor=white)
 ![IA](https://img.shields.io/badge/IA-OpenAI%20%7C%20Análise%20Inteligente-purple?style=for-the-badge&logo=openai&logoColor=white)
 
-### 💡 Confira meus projetos e dê uma estrela se gostar!
+<br>
+
+### 💬 Frase Inspiradora
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=00d9ff)
+
+<br>
+
+**💡 Confira meus projetos e dê uma estrela se gostar!**
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Conecte-se Comigo
 
 <div align="center">
 
-### 👀 Visitantes do Perfil
+<a href="https://linkedin.com/in/brunosillvax" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/brunosillvax" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://facebook.com/brunosillvax" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://github.com/brunosillvax" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=brunosillvax.brunosillvax&style=for-the-badge&color=00d9ff)
+<br><br>
 
-### 💬 Estou sempre aberto a novas oportunidades e colaborações!
-
-**"A automação é a arte de fazer o computador trabalhar para você, liberando tempo para criar soluções ainda mais inovadoras."** - Bruno Silva
-
-**"Código limpo não é escrito seguindo regras. Você sabe que tem código limpo quando cada rotina que você lê é praticamente o que você esperava."** - Robert C. Martin
+**📧 Entre em contato através das redes sociais!**
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 💬 Mensagem Final
+
+**"A automação é a arte de fazer o computador trabalhar para você, liberando tempo para criar soluções ainda mais inovadoras."**
+
+*- Bruno Silva*
+
+<br>
+
+**🚀 Sempre aberto a novas oportunidades e colaborações!**
+
+</div>
 
 <div align="center">
   
