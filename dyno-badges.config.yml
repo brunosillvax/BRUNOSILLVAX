@@ -1,5 +1,16 @@
-# Dyno-Badges Configuration
-# This file configures the dynamic badges for your GitHub profile
+providers:
+  github:
+    enabled: true
+    config:
+      username: 'brunosillvax'
+
+template:
+  input: 'README.template.md'
+  output: 'README.md'
+
+git:
+  commitMessage: 'Atualizar estatísticas do perfil'
+  branch: 'main'
 
 # GitHub Stats Badge
 github_stats:

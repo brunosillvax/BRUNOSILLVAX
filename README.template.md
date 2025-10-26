@@ -48,9 +48,11 @@ I'm **Bruno Silva**, a passionate developer who loves creating amazing things wi
 
 ## 📊 GitHub Stats
 
+<!-- GITHUB_STATS_START -->
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosillvax&layout=compact&theme=radical&hide_border=true)
+<!-- GITHUB_STATS_END -->
 
 ## 🔥 Streak Stats
 
@@ -58,7 +60,9 @@ I'm **Bruno Silva**, a passionate developer who loves creating amazing things wi
 
 ## 🏆 GitHub Trophies
 
+<!-- GITHUB_ACHIEVEMENTS_START -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=brunosillvax&theme=radical&no-frame=true&row=1)
+<!-- GITHUB_ACHIEVEMENTS_END -->
 
 ## 📈 Contribution Graph
 
@@ -84,6 +88,8 @@ I'm **Bruno Silva**, a passionate developer who loves creating amazing things wi
 
 ### Show some ❤️ by starring some of the repositories!
 
+<!-- PROFILE_VIEWS_START -->
 ![Profile Views](https://komarev.com/ghpvc/?username=brunosillvax&color=blueviolet&style=flat-square&label=Profile+Views)
+<!-- PROFILE_VIEWS_END -->
 
 </div>
