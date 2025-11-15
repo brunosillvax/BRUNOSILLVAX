@@ -1,11 +1,11 @@
 <div align="center">
-  
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Bruno%20Silva&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Bots%20|%20Especialista%20em%20Automação&descAlignY=51&descAlign=50)
 
 </div>
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+👋;Desenvolvedor+de+Bots+🚀;Especialista+em+Automação+💻;Full-Stack+Developer+🚀;Integração+com+IA+🧠)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=brunosillvax&color=00d9ff&style=for-the-badge&label=Visitantes)
@@ -22,16 +22,17 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots e desenvolvimento full-stack** com foco em soluções inteligentes e inovadoras.
+Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots, IA e desenvolvimento full-stack** com foco em soluções inteligentes e inovadoras.
 
 - 🎓 Estudante de **ADS** (Análise e Desenvolvimento de Sistemas)
 - 🤖 **Especialista em desenvolvimento de bots** para WhatsApp, Instagram e TikTok
-- 🧠 **Integração com IA** - OpenAI, modelos de linguagem e análise inteligente
+- 🧠 **Integração com IA** - OpenAI, modelos de linguagem, análise inteligente e geração de conteúdo
+- 📊 **Desenvolvimento de dashboards** e sistemas de analytics com IA
 - 💼 Em busca de **oportunidades de estágio** em Desenvolvimento Full-Stack
-- 🔭 Desenvolvendo **sistemas de automação** com JavaScript, TypeScript, Python e Go
-- 🌱 Explorando **APIs avançadas** e **integração com IA**
-- ⚡ Focado em **automação inteligente** e **soluções escaláveis**
-- 🎯 Objetivo: Tornar-me um **especialista em automação e IA**
+- 🔭 Desenvolvendo **sistemas de automação, plataformas web com IA e aplicações desktop**
+- 🌱 Explorando **APIs avançadas**, **integração com IA** e **análise de dados**
+- ⚡ Focado em **automação inteligente**, **soluções escaláveis** e **experiências do usuário**
+- 🎯 Objetivo: Tornar-me um **especialista em automação, IA e desenvolvimento full-stack**
 
 ---
 
@@ -49,7 +50,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
     <td align="center" width="200">
       <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60" height="60" alt="Frontend"/>
       <br><b>🎨 Front-End</b>
-      <br>React • Vue • SPA
+      <br>React • TypeScript • SPA
     </td>
     <td align="center" width="200">
       <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60" height="60" alt="Backend"/>
@@ -60,6 +61,28 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60" height="60" alt="AI"/>
       <br><b>🧠 Integração com IA</b>
       <br>OpenAI • Gemini • NagaAI • OpenRouter
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60" height="60" alt="Analytics"/>
+      <br><b>📊 Analytics & Dashboards</b>
+      <br>Social Media • IA Insights • Data
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="60" height="60" alt="Desktop"/>
+      <br><b>🖥️ Aplicações Desktop</b>
+      <br>Electron • TypeScript • IA
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828843.png" width="60" height="60" alt="Document"/>
+      <br><b>📄 Processamento de Documentos</b>
+      <br>DOCX • IA • Análise de Texto
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135789.png" width="60" height="60" alt="Management"/>
+      <br><b>💼 Sistemas de Gestão</b>
+      <br>Academias • CRM • Full-Stack
     </td>
   </tr>
 </table>
@@ -73,6 +96,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 <div align="center">
 
 ### 💻 Linguagens de Programação
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,12 +105,14 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 Automação & Bots
+
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 ### 🧠 IA & APIs
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -97,12 +123,18 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🔧 Ferramentas & Tecnologias
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### ⚛️ Frameworks & Bibliotecas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### 🎨 Design & UI/UX
+
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -115,7 +147,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Bruno Silva github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunosillvax&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Bruno Silva github stats" />
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosillvax&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Bruno Silva Most Languages" />
 
@@ -150,19 +182,87 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Bot Recruta WhatsApp</h3>
-      <div align="center">  
-        <a href="https://github.com/brunosillvax/bot-recruta-whatsapp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=bot-recruta-whatsapp&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="Bot Recruta WhatsApp" />
+      <h3 align="center">📄 Formatter DOCX</h3>
+      <div align="center">
+        <a href="https://github.com/brunosillvax/Formatter-DOCX" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=Formatter-DOCX&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="Formatter DOCX" />
         </a>
         <br>
         <p>
-          <a href="https://github.com/brunosillvax/bot-recruta-whatsapp" target="_blank">
+          <a href="https://github.com/brunosillvax/Formatter-DOCX" target="_blank">
             <img src="https://img.shields.io/badge/Ver_Projeto-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p><strong>JavaScript • WhatsApp API</strong></p>
-        <p>Bot para gerenciamento de clã Clash Royale</p>
+        <p><strong>TypeScript • IA • DOCX</strong></p>
+        <p>Plataforma web para analisar texto com IA e gerar documentos .docx</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 AI Social Analytics</h3>
+      <div align="center">
+        <a href="https://github.com/brunosillvax/ai-social-analytics" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=ai-social-analytics&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="AI Social Analytics" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/brunosillvax/ai-social-analytics" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>TypeScript • React • IA • Analytics</strong></p>
+        <p>Dashboard de análise de redes sociais com insights de IA</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 TikTok Bot</h3>
+      <div align="center">
+        <a href="https://github.com/brunosillvax/TikTok-Bot-" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=TikTok-Bot-&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="TikTok Bot" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/brunosillvax/TikTok-Bot-" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>JavaScript • IA • TikTok</strong></p>
+        <p>Geração automatizada de vídeos virais com IA</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 WhatsApp Sales Bot</h3>
+      <div align="center">
+        <a href="https://github.com/brunosillvax/-WhatsApp-Sales-Bot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=-WhatsApp-Sales-Bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="WhatsApp Sales Bot" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/brunosillvax/-WhatsApp-Sales-Bot" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>JavaScript • WhatsApp Business API</strong></p>
+        <p>Bot de vendas automatizado com WhatsApp Business API</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏋️ GymFlow</h3>
+      <div align="center">
+        <a href="https://github.com/brunosillvax/Academia-alunos-" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=Academia-alunos-&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="GymFlow" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/brunosillvax/Academia-alunos-" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>TypeScript • Sistema de Gestão</strong></p>
+        <p>Sistema completo de gestão para academias</p>
       </div>
     </td>
     <td width="50%">
@@ -196,7 +296,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
           </a>
         </p>
         <p><strong>TypeScript • IA • Desktop</strong></p>
-        <p>Análise inteligente de questões com IA</p>
+        <p>Análise inteligente de questões com IA de última geração</p>
       </div>
     </td>
     <td width="50%">
@@ -213,6 +313,40 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
         </p>
         <p><strong>TypeScript • Instagram API</strong></p>
         <p>Sistema completo de automação para Instagram</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Bot Recruta WhatsApp</h3>
+      <div align="center">
+        <a href="https://github.com/brunosillvax/bot-recruta-whatsapp" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=bot-recruta-whatsapp&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="Bot Recruta WhatsApp" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/brunosillvax/bot-recruta-whatsapp" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>JavaScript • WhatsApp API</strong></p>
+        <p>Bot para gerenciamento de clã Clash Royale</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 ADS Unidades Curriculares</h3>
+      <div align="center">
+        <a href="https://github.com/brunosillvax/ads-unidades-curriculares" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunosillvax&repo=ads-unidades-curriculares&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="ADS Unidades Curriculares" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/brunosillvax/ads-unidades-curriculares" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto-00d9ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Organização • Documentação</strong></p>
+        <p>Materiais e códigos das disciplinas do Técnico em ADS</p>
       </div>
     </td>
   </tr>
@@ -277,7 +411,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 
 **"A automação é a arte de fazer o computador trabalhar para você, liberando tempo para criar soluções ainda mais inovadoras."**
 
-*- Bruno Silva*
+_- Bruno Silva_
 
 <br>
 
@@ -286,7 +420,7 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 </div>
 
 <div align="center">
-  
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 **Desenvolvido com ❤️ por Bruno Silva**
@@ -294,4 +428,3 @@ Olá! Sou o **Bruno Silva**, desenvolvedor especializado em **automação, bots 
 ⭐ From [brunosillvax](https://github.com/brunosillvax)
 
 </div>
-
